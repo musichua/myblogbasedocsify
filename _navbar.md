@@ -1,0 +1,11 @@
+* 链接到我
+	* [关于本人](https://blog.csdn.net/fwdwqdwq/article/details/126080468)
+	* [github地址](https://github.com/)
+	* [gitee地址](https://e.gitee.com/vit_6/dashboard)
+* 友情链接
+	* [javaGuide](https://javaguide.cn/cs-basics/data-structure/linear-data-structure.html#_3-2-%E6%A0%88%E7%9A%84%E5%B8%B8%E8%A7%81%E5%BA%94%E7%94%A8%E5%B8%B8%E8%A7%81%E5%BA%94%E7%94%A8%E5%9C%BA%E6%99%AF)
+	* [python练习](https://aistudio.baidu.com/aistudio/projectdetail/1555263?channelType=0&channel=0)
+* [EN](/)
+* [简体中文](/zh-cn/)
+* [:us:,:uk:](/)
+* [:cn:](/zh-cn/)
